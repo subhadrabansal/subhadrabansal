@@ -1,6 +1,6 @@
-# Hi there👋, I'm Subhadra Bansal 
 # Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst
-
+# Hi there👋, I'm Subhadra Bansal
+# About Me
 💼 I'm currently pursuing BTech (CSE) in VIT Bhopal./n
 🌱 I’m currently learning Advanced ML algorithms and Deep Learning Algorithms.
 👨‍💻 All of my projects are available at Github.
