@@ -1,5 +1,6 @@
-# Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst
 # Hi there👋, I'm Subhadra Bansal
+Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst<br><br>
+
 # 💫 About Me:
 💼 I'm currently pursuing BTech (CSE) in VIT Bhopal.<br>🌱 I’m currently learning Advanced ML algorithms and Deep Learning Algorithms. <br>👨‍💻 All of my projects are available at Github<br>⚡ Fun fact: I always think that Life is a Bollywood Movie. <br>📫 How to reach me: LinkedIn, Gmail! <br>
 
